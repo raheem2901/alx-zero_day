@@ -1,1 +1,2 @@
-proj in alx, git task
+manipulating files in git
+
